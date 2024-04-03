@@ -12,3 +12,4 @@ pyhton learning - Data sets
 
 python learning - test cases
 
+to run py script ->  select the lines of code that needs to run , and shift + enter
